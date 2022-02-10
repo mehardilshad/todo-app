@@ -1,0 +1,15 @@
+
+*{
+  box-sizing: border-box;
+  font-family: "baloo_paaji_2regular";
+}
+ul,ol{
+  list-style: none;
+}
+@font-face {
+  font-family: "baloo_paaji_2regular";
+  src: url("./Components/assets/fonts/baloopaaji2-regular-webfont.woff2") format("woff2"), 
+  url("./Components/assets/fonts/baloopaaji2-regular-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
